@@ -20,16 +20,22 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:40px;
   font-weight: 500;
 }
 
 h2 {
-  color:#393939;
+  font-size:26px;
   font-weight: 500;
 }
 
-h3, h4, h5, h6 {
+h3 {
+  font-size:24px;
+  font-weight: 500;
+  margin-top:-0.8em;
+}
+
+h4, h5, h6 {
   color:#494949;
   font-weight: 500;
 }
@@ -107,6 +113,7 @@ header {
   width:300px;
   float:left;
   position:fixed;
+  text-align:center;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
