@@ -65,6 +65,7 @@ header {
   width:300px;
   float:left;
   position:fixed;
+  align:center;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
