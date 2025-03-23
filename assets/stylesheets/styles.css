@@ -63,7 +63,7 @@ img {
 
 header {
   width:300px;
-  float:left;
+  float:right;
   position:fixed;
   text-align:center;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -71,7 +71,7 @@ header {
 
 section {
   width:500px;
-  float:right;
+  float:left;
   padding-bottom:50px;
 }
 
