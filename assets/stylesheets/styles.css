@@ -63,15 +63,14 @@ img {
 
 header {
   width:300px;
-  float:right;
+  float:left;
   position:fixed;
   text-align:center;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
   width:500px;
-  float:left;
+  float:right;
   padding-bottom:50px;
 }
 
